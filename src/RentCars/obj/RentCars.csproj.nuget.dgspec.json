@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/karlakeurin/Trybe/Projetos/csharp-035-csharp-projeto-aluguel-de-carros/src/RentCars/RentCars.csproj": {}
+  },
+  "projects": {
+    "/home/karlakeurin/Trybe/Projetos/csharp-035-csharp-projeto-aluguel-de-carros/src/RentCars/RentCars.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/karlakeurin/Trybe/Projetos/csharp-035-csharp-projeto-aluguel-de-carros/src/RentCars/RentCars.csproj",
+        "projectName": "RentCars",
+        "projectPath": "/home/karlakeurin/Trybe/Projetos/csharp-035-csharp-projeto-aluguel-de-carros/src/RentCars/RentCars.csproj",
+        "packagesPath": "/home/karlakeurin/.nuget/packages/",
+        "outputPath": "/home/karlakeurin/Trybe/Projetos/csharp-035-csharp-projeto-aluguel-de-carros/src/RentCars/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/karlakeurin/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.128/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

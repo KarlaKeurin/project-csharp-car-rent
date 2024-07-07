@@ -1,0 +1,12 @@
+/home/karlakeurin/Trybe/Projetos/csharp-035-csharp-projeto-aluguel-de-carros/src/RentCars/bin/Debug/net6.0/RentCars.deps.json
+/home/karlakeurin/Trybe/Projetos/csharp-035-csharp-projeto-aluguel-de-carros/src/RentCars/bin/Debug/net6.0/RentCars.dll
+/home/karlakeurin/Trybe/Projetos/csharp-035-csharp-projeto-aluguel-de-carros/src/RentCars/bin/Debug/net6.0/ref/RentCars.dll
+/home/karlakeurin/Trybe/Projetos/csharp-035-csharp-projeto-aluguel-de-carros/src/RentCars/bin/Debug/net6.0/RentCars.pdb
+/home/karlakeurin/Trybe/Projetos/csharp-035-csharp-projeto-aluguel-de-carros/src/RentCars/obj/Debug/net6.0/RentCars.csproj.AssemblyReference.cache
+/home/karlakeurin/Trybe/Projetos/csharp-035-csharp-projeto-aluguel-de-carros/src/RentCars/obj/Debug/net6.0/RentCars.GeneratedMSBuildEditorConfig.editorconfig
+/home/karlakeurin/Trybe/Projetos/csharp-035-csharp-projeto-aluguel-de-carros/src/RentCars/obj/Debug/net6.0/RentCars.AssemblyInfoInputs.cache
+/home/karlakeurin/Trybe/Projetos/csharp-035-csharp-projeto-aluguel-de-carros/src/RentCars/obj/Debug/net6.0/RentCars.AssemblyInfo.cs
+/home/karlakeurin/Trybe/Projetos/csharp-035-csharp-projeto-aluguel-de-carros/src/RentCars/obj/Debug/net6.0/RentCars.csproj.CoreCompileInputs.cache
+/home/karlakeurin/Trybe/Projetos/csharp-035-csharp-projeto-aluguel-de-carros/src/RentCars/obj/Debug/net6.0/RentCars.dll
+/home/karlakeurin/Trybe/Projetos/csharp-035-csharp-projeto-aluguel-de-carros/src/RentCars/obj/Debug/net6.0/ref/RentCars.dll
+/home/karlakeurin/Trybe/Projetos/csharp-035-csharp-projeto-aluguel-de-carros/src/RentCars/obj/Debug/net6.0/RentCars.pdb
